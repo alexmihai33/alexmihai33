@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Alex</h1>
-<h3 align="center">Student + Developer Support Engineer</h3>
+<h1 align="">Hi 👋, I'm Alex</h1>
+<h3 align="">Student and Developer Support Engineer</h3>
+
+ I enjoy development because of the satisfaction I get by overcoming challenges. I am motivated by the opportunity that software provides to positively impact the life of an individual, and the world as a whole.
 
 - 🔭 I’m currently working on **a React project regarding placement in education**
 
