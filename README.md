@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **a React project regarding placement in education**
 
-- 🌱 I recently built **a notes application utilizing React**
+- 🌱 I recently built **Parts Deposit platform using Spring Boot and React**
 
 - 📫 How to reach me **mihalex.cris@yahoo.com**
 
