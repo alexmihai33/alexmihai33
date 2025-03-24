@@ -3,9 +3,9 @@
 
  I enjoy software development because of the satisfaction I get by overcoming challenges. I am motivated by the opportunity that software provides to positively impact the life of an individual, and the world as a whole.
 
-- 🔭 I’m currently working on **a React project regarding placement in education**
+- 🔭 I’m currently working on an **Education Placement platform using Spring Boot and React**
 
-- 🌱 I recently built **Parts Deposit platform using Spring Boot and React**
+- 🌱 I recently built a **Parts Deposit platform using Spring Boot and React**
 
 - 📫 How to reach me **mihalex.cris@yahoo.com**
 
