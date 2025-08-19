@@ -3,7 +3,7 @@
 
  I enjoy software development because of the satisfaction I get by overcoming challenges. I am motivated by the opportunity that software provides to positively impact the life of an individual, and the world as a whole.
 
-- 🔭 I’m currently learning more about **Desing Systems**
+- 🔭 I’m currently working on a **Fitness Mobile Application using Flutter*
 
 - 🌱 I recently built an **Education Placement platform using Spring Boot and React**
 
